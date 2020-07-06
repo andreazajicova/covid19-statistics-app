@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Covid19 app
+
+We want to show:
+
+### UI
+
+## The front page:
+
+# Overall situation: GET https://api.covid19api.com/summary:
+  # Death - total, Infected - total, Recovered - total
+  # Death - daily, Infected - daily, Recovered - daily
+- Input field at the top of the page
+- Below table of all countries with covid19 and statistics
+
+### Functionality
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -65,4 +81,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->

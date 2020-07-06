@@ -1,0 +1,19 @@
+.header {
+  /* display: flex; */
+  text-align: center;
+  background-color: #110e16;
+  margin-top: -20px;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  /* margin-bottom: 2rem; */
+}
+
+.header__title {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  text-align: center;
+  color: white;
+  padding: 1rem;
+}
