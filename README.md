@@ -1,8 +1,8 @@
-#### Covid19 app
+## Covid19 app
 
-# Overall situation: GET https://api.covid19api.com/summary:
-  # Death - total, Infected - total, Recovered - total
-  # Death - daily, Infected - daily, Recovered - daily
+### Overall situation: GET https://api.covid19api.com/summary:
+  ### Death - total, Infected - total, Recovered - total
+  ### Death - daily, Infected - daily, Recovered - daily
   
 - Input field at the top of the page to enter a country of your choice
 - Below: table with total statistics on covid19 in the world
